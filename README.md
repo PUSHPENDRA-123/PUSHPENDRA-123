@@ -18,7 +18,6 @@
 ---
 
 ## 📊 GitHub Stats
-![Pushpendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=PUSHPENDRA-123&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PUSHPENDRA-123&layout=compact&theme=radical)
 
@@ -26,7 +25,6 @@
 
 ## 🌐 Connect with me
 - 📧 Email: mailtoraghav2005@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
 ---
 
 ## ⚡ Fun Fact
